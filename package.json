@@ -1,0 +1,22 @@
+{
+  "name": "nodeproject",
+  "version": "1.0.0",
+  "description": "my first project for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankaran213/node.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "SankranKumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankaran213/node/issues"
+  },
+  "homepage": "https://github.com/sankaran213/node#readme"
+}
