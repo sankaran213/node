@@ -1,1 +1,6 @@
 # node
+
+This is my first push in git and learning git.
+I have successfully committed my first file now if you seeing this message then I have successfully updated the file. And I'm going to be the best programmer out there, Remember this.
+WHOEVER IS READING THIS I AM WATCHING YOU...
+ONE DAY YOU WILL DO THIS AND MAKE YOURSELF PROUD....
